@@ -1,0 +1,16 @@
+{
+    "name": "drupalor/comp",
+    "description": "Root of project",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Craig Bowman",
+            "email": "slewazimuth@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "drupal/core": "^8.6"
+    }
+}
